@@ -1,0 +1,6 @@
+{
+  "name": "Cranberry Blue",
+  "description": "High-end luxury wedding and event planning website with custom interactive visuals, cursor, transitions, and loading states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
